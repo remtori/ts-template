@@ -1,0 +1,6 @@
+data/
+.vitest-data/
+.env
+.env.*
+!.env.example
+
