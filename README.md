@@ -32,7 +32,7 @@ Runs the client (Vite) and server (Hono) concurrently. The client proxies `/api`
 
 - `pnpm dev` — Run client and server concurrently
 - `pnpm build` — Build all packages
-- `pnpm check` — Type-check all packages with tsgo
+- `pnpm check` — Type-check all packages with tsc
 - `pnpm test` — Run tests
 - `pnpm lint` — Lint with oxlint
 - `pnpm lint:fix` — Fix lint issues
